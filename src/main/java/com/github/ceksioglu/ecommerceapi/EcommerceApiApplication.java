@@ -1,14 +1,13 @@
-package com.ceksioglu.ecommerce_api;
+package com.github.ceksioglu.ecommerceapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ECommerceApiApplication {
-
+public class EcommerceApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ECommerceApiApplication.class, args);
+		SpringApplication.run(EcommerceApiApplication.class, args);
 	}
 
 }
